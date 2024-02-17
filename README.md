@@ -22,11 +22,13 @@ Before running the application, ensure you have the required dependencies instal
 pip install -r requirements.txt
 
 ## Run
+```
 git clone https://github.com/your-username/Stock-Forecast-App.git
 cd Stock-Forecast-App
 
 streamlit run app.py
 
+```
 
 ## Folder Structure
 app.py: Main Streamlit application file.
